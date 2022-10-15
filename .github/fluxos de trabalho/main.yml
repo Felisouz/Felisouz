@@ -28,4 +28,5 @@ jobs:
     - name: logout
       run: |
             az logout
-      if: always() testetstetstetst
+      if: always() testetstetstetstteste
+      
